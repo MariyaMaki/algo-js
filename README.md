@@ -11,5 +11,5 @@ At the end of this training the trainee will have mastered the following aspect 
 - Control Structures
 - Functions
 - Objects
-- Classes
-  <br>The trainee will then be able to begin its learning of JavaScript in the context of Web Development.
+- Classes <br>
+  The trainee will then be able to begin its learning of JavaScript in the context of Web Development.
