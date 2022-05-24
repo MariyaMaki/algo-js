@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "interactive": "^0.1.9",
+    "readline-sync": "^1.4.10"
+  }
+}
