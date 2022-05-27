@@ -1,7 +1,7 @@
 const readlineSync = require("readline-sync");
 
-let A = [];
-let B = [];
+let A = [2, 1];
+let B = [1, 2];
 
 function calcDistance(P1, P2) {
   dist = 0;
