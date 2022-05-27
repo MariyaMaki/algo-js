@@ -7,7 +7,7 @@ while (favoriteNum != 42) {
   console.log(
     "Are you sure? Like, really sure? It's a life or death question..."
   );
-  var favoriteNum = new Number(
+  favoriteNum = new Number(
     readlineSync.question("What's your favorite number?")
   );
 }
