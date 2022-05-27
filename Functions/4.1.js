@@ -10,4 +10,4 @@ const width = new Number(
   readlineSync.question("Quel est la largeur du rectangle ? ")
 );
 
-console.log("la surface du rectangle est de " + calcSurface(length, width));
+console.log(`la surface du rectangle est de ${calcSurface(length, width)}`);
