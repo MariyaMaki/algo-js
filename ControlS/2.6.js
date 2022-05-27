@@ -24,5 +24,5 @@ switch (date) {
     console.log("Sunday");
     break;
   default:
-    console.log("Nice try, try again!");
+    console.log("Fucker there are 7 days in a week!");
 }
