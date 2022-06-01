@@ -16,7 +16,7 @@ let destructuring = function nestedArrayAndObject() {
     title: serie,
     protagonist: {
       name: Hero,
-      enemies: [{ name: Enemies, title: title }],
+      enemies: [, , , { name: Enemies, title: title }],
     },
   } = info;
   return `${Enemies} (${title}) is an enemy to ${Hero} in "${serie}"`;
