@@ -8,3 +8,12 @@ for (i = 0; i < n; i++) {
   sum += n;
 }
 console.log(sum);
+
+// let n = readlineSync.question("how many numbers?");
+// let total = 0;
+// for (let i = 1; i <= n; i += 1) {
+//   let number = new Number(readlineSync.question("number " + i + "?"));
+
+//   total = total + number;
+// }
+// console.log(total);
